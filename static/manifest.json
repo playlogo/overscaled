@@ -1,0 +1,13 @@
+{
+    "bundles": [
+        {
+            "name": "basic",
+            "assets": [
+                {
+                    "name": "button_big_normal",
+                    "srcs": "assets/button/big_normal.png"
+                }
+            ]
+        }
+    ]
+}
